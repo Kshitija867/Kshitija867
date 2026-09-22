@@ -1,4 +1,4 @@
-# Kshitija Bhagwat
+# Kshitija Santosh Bhagwat
 
 **M.Tech Computer Science & Engineering Student at MIT-WPU, Pune**
 
