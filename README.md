@@ -1,10 +1,11 @@
+
 # Kshitija Santosh Bhagwat
 
-**M.Tech Computer Science & Engineering Student at MIT-WPU, Pune**
+**Master of Technology (M.Tech.) in Computer Science & Engineering Student at MIT-WPU, Pune**  
 
 **AI & Data Science Practitioner**
 
-I work at the intersection of Artificial Intelligence, Machine Learning, Deep Learning, and Data Science, with a growing focus on Generative AI and intelligent systems. I focus on strengthening fundamental concepts and applying them through practical implementation, experimentation, and engineering.
+I work at the intersection of Artificial Intelligence, Machine Learning, Deep Learning, and Data Science, with a growing focus on Generative AI, intelligent systems, and Data Engineering. I focus on strengthening fundamental concepts and applying them through practical implementation, experimentation, and engineering, with an interest in scalable computing and cloud technologies.
 
 ---
 
@@ -22,6 +23,11 @@ I work at the intersection of Artificial Intelligence, Machine Learning, Deep Le
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+### Data Engineering & Cloud
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 ### Frameworks & Tools
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -32,11 +38,12 @@ I work at the intersection of Artificial Intelligence, Machine Learning, Deep Le
 
 ## Education
 
-**M.Tech in Computer Science & Engineering**  
-MIT World Peace University, Pune  
+**Master of Technology, M.Tech, Computer Science & Engineering**  
+**Specialization: Data Centre Systems Engineering**  
+MIT World Peace University (MIT-WPU), Pune  
 *2026 – 2028*
 
-**B.E. in Artificial Intelligence & Data Science**  
+**Bachelor of Engineering, B.E., Artificial Intelligence & Data Science**  
 Savitribai Phule Pune University (SPPU)  
 *2022 – 2026* | **CGPA: 7.98**
 
@@ -48,14 +55,15 @@ Savitribai Phule Pune University (SPPU)
 - Computer Vision
 - Generative AI and Large Language Models
 - AI Agents and Agentic Systems
-- Data Engineering
-- Cloud Technologies
+- Data Engineering, ETL Pipelines, and PySpark
+- Microsoft Azure and Cloud Technologies
+- Scalable Computing and Systems Infrastructure
 
 ---
 
 ## Core Competencies
 
-**Artificial Intelligence · Machine Learning · Deep Learning · Data Science · Generative AI**
+**Artificial Intelligence · Machine Learning · Deep Learning · Data Science · Generative AI · Data Engineering · Cloud Computing**
 
 ---
 
@@ -68,3 +76,4 @@ This GitHub profile documents my technical learning, implementations, experiment
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/kshitija-bhagwat-a19567269) · [GitHub](https://github.com/Kshitija867)
+
